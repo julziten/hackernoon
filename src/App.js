@@ -20,7 +20,6 @@ function App() {
     })
     .then(response => response.json())
     .then(data => { 
-      console.log(data);
       setData(data);
       setDate(convertTimestamp(data.createdAt));
       setProfile(data.profile);
