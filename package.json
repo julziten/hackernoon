@@ -1,6 +1,6 @@
 {
-  "name": "hackernoon",
   "homepage": "http://julziten.github.io/hackernoon",
+  "name": "hackernoon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
