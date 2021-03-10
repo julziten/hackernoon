@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hackernoon/static/css/main.e36df78a.chunk.css",
-    "main.js": "/hackernoon/static/js/main.ccbc297c.chunk.js",
-    "main.js.map": "/hackernoon/static/js/main.ccbc297c.chunk.js.map",
+    "main.js": "/hackernoon/static/js/main.1ad0104f.chunk.js",
+    "main.js.map": "/hackernoon/static/js/main.1ad0104f.chunk.js.map",
     "runtime-main.js": "/hackernoon/static/js/runtime-main.2f7413cd.js",
     "runtime-main.js.map": "/hackernoon/static/js/runtime-main.2f7413cd.js.map",
     "static/js/2.2dd03c5f.chunk.js": "/hackernoon/static/js/2.2dd03c5f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f7413cd.js",
     "static/js/2.2dd03c5f.chunk.js",
     "static/css/main.e36df78a.chunk.css",
-    "static/js/main.ccbc297c.chunk.js"
+    "static/js/main.1ad0104f.chunk.js"
   ]
 }
